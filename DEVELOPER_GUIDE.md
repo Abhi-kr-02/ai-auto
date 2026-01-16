@@ -769,4 +769,3 @@ When making changes:
 
 ---
 
-**Questions?** Review the code comments and TODO markers for implementation hints.
